@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>riskfactors-neutral</title>
+    <g id="General" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Export" transform="translate(-349.000000, -116.000000)">
+            <g id="Icons/icon+value-component/ivc-icon-analyst-Copy-12" transform="translate(349.000000, 116.000000)">
+                <g id="icon__shape-2" opacity="0.2" fill="#C6C6C6">
+                    <circle id="icon__shape" cx="24" cy="24" r="24"></circle>
+                </g>
+                <g id="Icons/24px/Data/bar-chart" transform="translate(12.000000, 12.000000)" fill="#264AFF">
+                    <path d="M3,4.5 L11.25,4.5 L11.25,6 L3,6 L3,4.5 Z M13.5,4.5 L21,4.5 L21,6 L13.5,6 L13.5,4.5 Z M15.75,9 L21,9 L21,10.5 L15.75,10.5 L15.75,9 Z M8.25,9 L13.5,9 L13.5,10.5 L8.25,10.5 L8.25,9 Z M3,9 L6,9 L6,10.5 L3,10.5 L3,9 Z M3,13.5 L21,13.5 L21,15 L3,15 L3,13.5 Z M3,18 L15.75,18 L15.75,19.5 L3,19.5 L3,18 Z M18,18 L21,18 L21,19.5 L18,19.5 L18,18 Z" id="Fill"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

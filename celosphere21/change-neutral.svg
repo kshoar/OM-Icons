@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>change-neutral</title>
+    <g id="General" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Export" transform="translate(-349.000000, -36.000000)">
+            <g id="Icons/icon+value-component/ivc-icon-analyst" transform="translate(349.000000, 36.000000)">
+                <g id="icon__shape-2" opacity="0.2" fill="#C6C6C6">
+                    <circle id="icon__shape" cx="24" cy="24" r="24"></circle>
+                </g>
+                <g id="Icons/24px/Data/bar-chart" transform="translate(12.000000, 12.000000)" fill="#264AFF">
+                    <path d="M9,21.749996 C8.69722359,21.7484886 8.4250527,21.5650691 8.31,21.285 L4.7475,12.749996 L1.5,12.749996 L1.5,11.249996 L5.25,11.249996 C5.55277641,11.2515114 5.8249473,11.4349309 5.94,11.715 L9,18.96 L15.045,2.7375 C15.154848,2.44349482 15.4361456,2.24898049 15.75,2.24999601 C16.0669079,2.25553693 16.3461224,2.45969376 16.4475,2.76 L19.29,11.249996 L22.5,11.249996 L22.5,12.749996 L18.75,12.749996 C18.4275631,12.7508323 18.1406791,12.5454838 18.0375,12.24 L15.75,5.24999601 L9.705,21.2625 C9.59515204,21.5565052 9.3138544,21.7510195 9,21.749996 Z" id="Fill"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
